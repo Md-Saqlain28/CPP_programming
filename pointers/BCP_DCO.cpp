@@ -14,6 +14,8 @@ class Derived: public Base{
     public:
         void fun2(){
             cout<< "Fun2 of derived"<<endl;
+            cout<< "Fun1 of base called from derived class: ";
+            fun1(); // calling base class function from derived class
         }
 };
 
