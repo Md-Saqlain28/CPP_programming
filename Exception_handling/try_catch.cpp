@@ -14,4 +14,5 @@ int main(){
         cerr << "Division by zero! " << e << endl;
     }
 
+    cout<< "Bye!" << endl;
 }
