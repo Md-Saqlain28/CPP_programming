@@ -1,0 +1,9 @@
+Brush
+30
+1
+Soap
+40
+2
+FaceWash
+69
+1
