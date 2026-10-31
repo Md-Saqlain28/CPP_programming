@@ -13,4 +13,6 @@ int main(){
     auto y = fun();
     cout<<x<<endl;
     cout<<y<<endl;
+
+    decltype(i) z = 10;
 }
